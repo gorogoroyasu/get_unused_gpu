@@ -1,4 +1,4 @@
-# coding: UTF-8
+# -*- coding: utf-8 -*-
 def get_unused_gpu():
     import subprocess
     import re
